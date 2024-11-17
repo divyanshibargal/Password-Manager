@@ -1,9 +1,8 @@
-# Password-Manager
-Password Manager is a secure and user-friendly application designed to store, manage, and organize your passwords efficiently. Built with React, Tailwind CSS, Express, and MongoDB, it allows users to:
+# React + Vite
 
-Store passwords in an encrypted format for enhanced security.
-Edit and update saved passwords effortlessly.
-Delete passwords when they are no longer needed.
-Copy passwords to the clipboard with a single click for quick access.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-With a clean and intuitive interface, this application ensures a seamless password management experience
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
